@@ -1,5 +1,6 @@
 {
   "name": "meeting_room_booking_system_frontend",
+  "keywords": ["nextjs", "typescript", "tailwindcss", "antd"],
   "version": "0.1.0",
   "private": true,
   "scripts": {
