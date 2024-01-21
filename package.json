@@ -1,6 +1,11 @@
 {
   "name": "meeting_room_booking_system_frontend",
-  "keywords": ["nextjs", "typescript", "tailwindcss", "antd"],
+  "keywords": [
+    "nextjs",
+    "typescript",
+    "tailwindcss",
+    "antd"
+  ],
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +16,7 @@
   },
   "dependencies": {
     "antd": "^5.13.0",
+    "axios": "^1.6.5",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
